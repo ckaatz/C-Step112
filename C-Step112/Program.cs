@@ -8,8 +8,13 @@ namespace C_Step112
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
+            Numbers number = new Numbers();
+            
+
+            Console.ReadLine();
         }
+       
     }
 }
